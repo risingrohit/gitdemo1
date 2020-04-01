@@ -4,6 +4,6 @@ def ToPrint():
     if  p == "Rohit" :
         print("Hello champion "+p)
     else :
-        print("Hello "+p)
+        print("Hello hi "+p)
 
 ToPrint()
