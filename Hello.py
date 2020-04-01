@@ -1,4 +1,4 @@
-#This is a print program
+#This is a print prog
 def ToPrint():
     p = input("what do you want to print ")
     if  p == "Rohit" :
